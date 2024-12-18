@@ -1,0 +1,19 @@
+# Thư mục không cần upload
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Thư mục liên quan đến IDE
+.vs/
+*.csproj
+*.sln
+*.userprefs
+
+# Unity dữ liệu cache
+*.unitypackage
+*.pidb
+*.booproj
+*.swp
